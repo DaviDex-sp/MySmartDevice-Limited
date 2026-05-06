@@ -6,7 +6,7 @@
 
 ## 📖 Resumen Ejecutivo
 
-**MySmartDevice** es una solución integral de domótica desarrollada con arquitectura moderna y principios de ingeniería de software de alto nivel. La plataforma permite a usuarios finales monitorizar y controlar dispositivos IoT desde una interfaz web centralizada, con comunicación en tiempo real y escalabilidad empresarial.
+**MySmartDevice** es una solución integral de domótica desarrollada con arquitectura moderna y principios de ingeniería de software de alto nivel. La plataforma permite a usuarios finales monitorizar y controlar dispositivos IoT en tiempo real desde una interfaz web centralizada.
 
 ### 📊 Capacidades Principales
 
@@ -83,7 +83,7 @@ El proyecto implementa una **arquitectura en capas estricta** que prohíbe la in
 ### Comunicación
 - **MQTT con Autenticación** — Credenciales en HiveMQ Cloud
 - **SignalR sobre WSS** — Conexiones encriptadas
-- **API REST Validada** — Autorizacion por roles
+- **API REST Validada** — Autorización por roles
 
 ---
 
@@ -179,15 +179,6 @@ Push a master
 
 ---
 
-## 📞 Contacto
-
-👤 **David Díaz** (@DaviDex-sp)  
-📧 [daviddiazgomez@gmail.com](mailto:daviddiazgomez@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/daviddiazgomez/)  
-🌐 [Portfolio](https://daviddiazgomez.dev)  
-
----
-
 ### 📖 Documentación Técnica Completa
 
 - [Arquitectura Detallada](./ARCHITECTURE.md) — Diagramas, flujos, decisiones técnicas
@@ -195,4 +186,6 @@ Push a master
 
 ---
 
-*Para acceso al código fuente privado, por favor contacta directamente.*
+## 📄 Licencia
+
+Este proyecto está licenciado bajo la licencia MIT — ver el archivo [LICENSE](./LICENSE) para más detalles.
